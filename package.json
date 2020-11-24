@@ -1,0 +1,26 @@
+{
+  "name": "nodejsrestapi",
+  "version": "1.0.0",
+  "description": "Node.js rest api using Express and MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pglez82/nodejsrestapi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pglez82/nodejsrestapi/issues"
+  },
+  "homepage": "https://github.com/pglez82/nodejsrestapi#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.10.15"
+  }
+}
